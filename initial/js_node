@@ -26,4 +26,6 @@ if (!global.is_checking) {
     assert.equal(checkGrid([
         ["X", "Z", "X", "Z"],
         ["X", "Z", "X", "Z"]]), false, "2x4 Bad");
+    console.log("Use 'Check' to earn sweet rewards!");
 }
+

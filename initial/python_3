@@ -17,3 +17,5 @@ if __name__ == '__main__':
                            ["X", "Z", "X"]]), "3x3 Bad"
     assert not check_grid([["X", "Z", "X", "Z"],
                            ["X", "Z", "X", "Z"]]), "2x4 Bad"
+
+    print("Use 'Check' to earn sweet rewards!")
